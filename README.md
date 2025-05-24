@@ -1,7 +1,7 @@
 ![airplane](https://github.com/user-attachments/assets/c62d28d3-b8df-4a78-a7ea-6e98d10c1bd3)
 # STQD6324-Assignment 2-P149793
 
-## 1. Introduction
+## 1. Data Introduction
 - The data set uses the 2006 airline on-time performance data on Kaggle.
 - [2006 dataset link](https://www.kaggle.com/datasets/wenxingdi/data-expo-2009-airline-on-time-data/data?select=2006.csv)
 
