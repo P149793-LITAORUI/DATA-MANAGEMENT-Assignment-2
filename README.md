@@ -8,7 +8,7 @@
 
 ## 2. Delay Pattern Analysis
 ![Delay_Patterns](https://github.com/user-attachments/assets/a1ad35a6-9f4e-4403-b316-969f12ed297b)
-- Read the year, month, dayofmonth, dayofweek, crsdeptime, arrdelay, cancelled, and diverted columns in the data set for Delay Patterns analysis.
+- Read the year, month, dayofmonth, dayofweek, crsdeptime, arrdelay, cancelled, and diverted columns in the data set for Delay Patterns analysis.  
 ![image](https://github.com/user-attachments/assets/367037c2-922e-4fd4-a9bc-d8c212803514)
 
 - Generate a new column named dephour to record the hour of delay.
